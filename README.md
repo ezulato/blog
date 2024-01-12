@@ -1,6 +1,6 @@
 <header>
   
-<!--
+<!-------------------------------------------------------------------------------------------------------------------------------------
  
 . Style	Syntax	Keyboard shortcut	Example	Output
 Bold	** ** or __ __	Command+B (Mac) or Ctrl+B (Windows/Linux)	**This is bold text**	This is bold text
@@ -66,7 +66,7 @@ HSL	`hsl(H,S,L)`	`hsl(212, 92%, 45%)`	Screenshot of rendered GitHub Markdown sho
   Screenshot of rendered GitHub Markdown showing a list item prefaced by the number 100 followed by a bulleted item nested one level to the right, and another bulleted item nested yet further to the right.
   
 
--->
+---------------------------------------------------------------------------------------------------------------------->
   
 <!--
   <<< Author notes: Course header >>>
@@ -76,8 +76,17 @@ HSL	`hsl(H,S,L)`	`hsl(212, 92%, 45%)`	Screenshot of rendered GitHub Markdown sho
 -->
 
 # Blog
+<!-----------------------------------------------------------------------------------------------------------------------
 
-What I've found useful during my work experience or around Internet about Cibersecurity, InfoSec and Governance.
+_IoT_ 
+What I've found useful during my work experience or around Internet in my troubleshooting path to reach the goal
+
+The World’s Only Consensus-Based Automation and Control Systems Cybersecurity Standards
+https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards
+
+Operation Technology OT - ISA/IEC 62443 standards 
+https://verveindustrial.com/resources/blog/the-ultimate-guide-to-protecting-ot-systems-with-iec-62443/
+------------------------------------------------------------------------------------------------------------------------>
 
 </header>
 
@@ -88,9 +97,9 @@ What I've found useful during my work experience or around Internet about Cibers
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
 
-## Step 2: Configure your site
+# Step 2: Configure your site
 
-_IoT_
+
 
 We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
 
@@ -120,7 +129,7 @@ We need to use a blog-ready theme. For this activity, we will use a theme named 
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
