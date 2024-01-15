@@ -83,14 +83,18 @@ _Cybersecurity_
 * ISA The World’s Only Consensus-Based Automation and Control Systems Cybersecurity Standards
 https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards
 
+<BR>
+
 _Operation Technology OT_ 
 * ISA/IEC 62443 standards 
 https://verveindustrial.com/resources/blog/the-ultimate-guide-to-protecting-ot-systems-with-iec-62443/
 
+<BR>
+
 _Project Management_ 
 Project Management PMP 
 * Free PMP® Exam Practice Questions: https://projectmanagementacademy.net/resources/
-
+<BR>
 
 </header>
 
