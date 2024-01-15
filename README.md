@@ -76,17 +76,21 @@ HSL	`hsl(H,S,L)`	`hsl(212, 92%, 45%)`	Screenshot of rendered GitHub Markdown sho
 -->
 
 # Blog
-<!-----------------------------------------------------------------------------------------------------------------------
 
-_IoT_ 
-What I've found useful during my work experience or around Internet in my troubleshooting path to reach the goal
 
-The World’s Only Consensus-Based Automation and Control Systems Cybersecurity Standards
+_Cybersecurity_ 
+
+* ISA The World’s Only Consensus-Based Automation and Control Systems Cybersecurity Standards
 https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards
 
-Operation Technology OT - ISA/IEC 62443 standards 
+_Operation Technology OT_ 
+* ISA/IEC 62443 standards 
 https://verveindustrial.com/resources/blog/the-ultimate-guide-to-protecting-ot-systems-with-iec-62443/
------------------------------------------------------------------------------------------------------------------------->
+
+_Project Management_ 
+Project Management PMP 
+* Free PMP® Exam Practice Questions: https://projectmanagementacademy.net/resources/
+
 
 </header>
 
@@ -113,16 +117,10 @@ You can customize your homepage by adding content to either an `index.md` file o
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+  <!--
+    <<< Author notes: Footer >>>
+    Add a link to get support, GitHub status page, code of conduct, license link.
+  -->
+  ---
+  &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 </footer>
