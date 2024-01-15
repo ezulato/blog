@@ -96,6 +96,8 @@ Project Management PMP
 * Free PMP® Exam Practice Questions: https://projectmanagementacademy.net/resources/
 <BR>
 
+* Post Mortem After Successful Project Closure - project management doesn't stop at project closure: 
+https://projectmanagementacademy.net/articles/project-management-doesnt-stop-at-project-closure/
 </header>
 
 <!--
