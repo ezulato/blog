@@ -84,7 +84,7 @@ HSL	`hsl(H,S,L)`	`hsl(212, 92%, 45%)`	Screenshot of rendered GitHub Markdown sho
 https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards
 
 
-**Operation Technology OT**
+**Operational Technology OT**
 + ISA/IEC 62443 standards 
 https://verveindustrial.com/resources/blog/the-ultimate-guide-to-protecting-ot-systems-with-iec-62443/
 
