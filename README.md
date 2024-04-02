@@ -78,25 +78,24 @@ HSL	`hsl(H,S,L)`	`hsl(212, 92%, 45%)`	Screenshot of rendered GitHub Markdown sho
 # Blog
 
 
-__Cybersecurity__
-
-* ISA The World’s Only Consensus-Based Automation and Control Systems Cybersecurity Standards
+**Cybersecurity**
+<BR>
++ _ISA_ The World’s Only Consensus-Based Automation and Control Systems Cybersecurity Standards
 https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards
 
-<BR>
 
-_Operation Technology OT_ 
-* ISA/IEC 62443 standards 
+**Operation Technology OT**
++ ISA/IEC 62443 standards 
 https://verveindustrial.com/resources/blog/the-ultimate-guide-to-protecting-ot-systems-with-iec-62443/
 
-<BR>
+
 
 __Project Management__ 
-Project Management PMP 
-* Free PMP® Exam Practice Questions: https://projectmanagementacademy.net/resources/
-<BR>
+- Project Management PMP 
+Free PMP® Exam Practice Questions: https://projectmanagementacademy.net/resources/
 
-* Post Mortem After Successful Project Closure - project management doesn't stop at project closure: 
+
+** Post Mortem After Successful Project Closure - project management doesn't stop at project closure: **
 https://projectmanagementacademy.net/articles/project-management-doesnt-stop-at-project-closure/
 </header>
 
