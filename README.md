@@ -78,7 +78,7 @@ HSL	`hsl(H,S,L)`	`hsl(212, 92%, 45%)`	Screenshot of rendered GitHub Markdown sho
 # Blog
 
 
-_Cybersecurity_ 
+__Cybersecurity__
 
 * ISA The World’s Only Consensus-Based Automation and Control Systems Cybersecurity Standards
 https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards
@@ -91,7 +91,7 @@ https://verveindustrial.com/resources/blog/the-ultimate-guide-to-protecting-ot-s
 
 <BR>
 
-_Project Management_ 
+__Project Management__ 
 Project Management PMP 
 * Free PMP® Exam Practice Questions: https://projectmanagementacademy.net/resources/
 <BR>
