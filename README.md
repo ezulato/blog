@@ -90,13 +90,13 @@ https://verveindustrial.com/resources/blog/the-ultimate-guide-to-protecting-ot-s
 
 
 
-__Project Management__ 
-- Project Management PMP 
+**Project Management**
++ Project Management PMP 
 Free PMP® Exam Practice Questions: https://projectmanagementacademy.net/resources/
 
 
-** Post Mortem After Successful Project Closure - project management doesn't stop at project closure: **
-https://projectmanagementacademy.net/articles/project-management-doesnt-stop-at-project-closure/
++ Post Mortem After Successful Project Closure - project management doesn't stop at project closure:
+https://projectmanagementacademy.net/articles/project-management-doesnt-stop-at-project-closure
 </header>
 
 <!--
